@@ -1,5 +1,4 @@
 # Reading Paper :  Asymmetric Image Retrieval
-Asymmetric Image Retrieval
 
 ## Paper 
 * A General Rank Preserving Framework for Asymmetric Image Retrieval, ICLR 2023, [[paper]](https://openreview.net/forum?id=dYHYXZ3uGdQ)

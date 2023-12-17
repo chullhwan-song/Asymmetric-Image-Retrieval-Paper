@@ -8,6 +8,6 @@
 * Learning Compatible Embeddings, 2021 CVPR, [[paper]](https://arxiv.org/abs/2108.01958)[[code]](https://github.com/IrvingMeng/LCE)
 * Compatibility-aware Heterogeneous Visual Search, 2021 CVPR, [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Duggal_Compatibility-Aware_Heterogeneous_Visual_Search_CVPR_2021_paper.pdf)
 * Asymmetric metric learning for knowledge transfer, 2021 CVPR, [[paper]](https://arxiv.org/abs/2112.08816)[[code]](https://github.com/budnikm/aml)
-* Towards Backward-Compatible Representation Learning, 2020 CVPR,[[paper]](https://arxiv.org/abs/2003.11942)
+* Towards Backward-Compatible Representation Learning, 2020 CVPR, [[paper]](https://arxiv.org/abs/2003.11942)
 
 
